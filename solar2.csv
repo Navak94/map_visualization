@@ -1,0 +1,15 @@
+site_id,date,watt_min,watt_max,watt_avg,watt_hours,watt_hours_expected,site,address,latitude,longitude,department
+3764461,1/30/2020,0,211600,0,0,0,Banneker,930 West 7th Street,40.0827,-117.5439,Bloomington Parks & Rec
+3764462,1/30/2020,0,239230,0,0,0,Banneker,930 West 7th Street,41.8109,-107.9688,Bloomington Parks & Rec
+3764463,1/30/2020,0,397160,0,0,0,Banneker,930 West 7th Street,39.9513,-113.7846,Bloomington Parks & Rec
+3764464,1/30/2020,0,368230,0,0,0,Banneker,930 West 7th Street,41.4356,-99.3502,Bloomington Parks & Rec
+3764465,1/30/2020,0,234950,0,0,0,Banneker,930 West 7th Street,39.8987,-87.5356,Bloomington Parks & Rec
+3764466,1/30/2020,0,33940,0,0,0,Banneker,930 West 7th Street,37.8419,-83.2626,Bloomington Parks & Rec
+3764467,1/30/2020,0,218600,0,0,0,Banneker,930 West 7th Street,37.3459,-115.4465,Bloomington Parks & Rec
+3764468,1/30/2020,0,461430,0,0,0,Banneker,930 West 7th Street,37.2318,-122.8852,Bloomington Parks & Rec
+3764469,1/30/2020,0,279960,0,0,0,Banneker,930 West 7th Street,37.3195,-84.5303,Bloomington Parks & Rec
+3764470,1/30/2020,0,98360,0,0,0,Banneker,930 West 7th Street,39.9661,-120.9536,Bloomington Parks & Rec
+3764471,1/30/2020,0,62960,0,0,0,Banneker,930 West 7th Street,40.7961,-120.8616,Bloomington Parks & Rec
+3764472,1/30/2020,0,240260,0,0,0,Banneker,930 West 7th Street,37.125,-73.9695,Bloomington Parks & Rec
+3764473,1/30/2020,0,236890,0,0,0,Banneker,930 West 7th Street,38.2074,-97.8364,Bloomington Parks & Rec
+3764474,1/30/2020,0,255750,0,0,0,Banneker,930 West 7th Street,37.633,-116.2637,Bloomington Parks & Rec

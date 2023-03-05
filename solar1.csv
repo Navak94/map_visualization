@@ -14,3 +14,5 @@ site_id,date,watt_min,watt_max,watt_avg,watt_hours,watt_hours_expected,site,addr
 3764473,1/30/2020,0,236890,0,0,0,Banneker,930 West 7th Street,38.2074,-97.8364,Bloomington Parks & Rec
 3764474,1/30/2020,0,255750,0,0,0,Banneker,930 West 7th Street,37.633,-116.2637,Bloomington Parks & Rec
 3764474,1/30/2020,0,255750,0,0,0,Banneker,930 West 7th Street,30.877, -99.0856,Bloomington Parks & Rec
+3764474,1/30/2020,0,255750,0,0,0,Banneker,930 West 7th Street,45.444, -95.987,Bloomington Parks & Rec
+3764474,1/30/2020,0,255750,0,0,0,Banneker,930 West 7th Street,32.354777, -88.045349,Bloomington Parks & Rec
